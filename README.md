@@ -2,7 +2,7 @@
 # HW1
 ## Devlog
 1. Haoyi Zhang, He/Him
-2. Three function, player movement, plant seed, update UI 
+2. Three function, player movement:Get player input, and move the cat; plant seed: when player hit space, summon a seed prefab, update UI: whenever summon seed, add 1 on planted and mineus 1 on remaining. 
 
 
 ## Open-Source Assets
